@@ -1,9 +1,5 @@
-# Movie-Explorer-Discover-Your-Favorite-Films
-Movie Explorer is a React web app that lets users search movies, view trending films, and explore detailed info like ratings, genres, and trailers using the TMDb API. It includes a modern UI with login, search bar, dark mode, and movie details view.
 
-
-
-# 🎬 Movie Explorer – Discover Your Favorite Films
+# Movie Explorer – Discover Your Favorite Films
 
 Movie Explorer is a sleek and interactive React web application that allows users to explore the world of cinema using data from The Movie Database (TMDb) API. Users can search for movies, view trending films, explore detailed movie data, and enjoy a smooth, responsive UI experience.
 

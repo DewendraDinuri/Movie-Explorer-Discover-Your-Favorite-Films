@@ -1,7 +1,8 @@
-html, body, #root {
+/* index.css or App.css */
+body, html {
   margin: 0;
   padding: 0;
-  height: 100%;
-  background-color: #000;
-  overflow-x: hidden;
+  box-sizing: border-box;
+  background-color: #000; /* Optional for full dark background */
 }
+
